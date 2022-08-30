@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "firstname": "Maria",
+      "lastname": "Vera",
+      "email": "marivera@gmail.com",
+      "password": "1234"
+   },
+   {
+      "id": 2,
+      "firstname": "karen",
+      "lastname": "ocampo",
+      "email": "kareno@gmail.com",
+      "password": "$2a$12$nLOcK1YSPqsZRT9xnQW.guyhZ4gan0PWiJNYRD2d/c.fDP.IMySte"
+   },
+   {
+      "id": 3,
+      "firstname": "riki",
+      "lastname": "acosta",
+      "email": "riki@gmail.com",
+      "password": "$2a$12$elEHMOSK2Wf.FthqQxqPyuRHMfPH8nFS1wahRZLjh/qVhH0Fxg0SC"
+   },
+   {
+      "id": 4,
+      "firstname": "juan",
+      "lastname": "zarate",
+      "email": "juan@gmail.com",
+      "password": "$2a$12$3k9OmCosbMi9OYhL1nUKFu.HCG9JU66R3SkGO2q9NwEaY5avoP942"
+   },
+   {
+      "id": 5,
+      "firstname": "Dani",
+      "lastname": "Gonza",
+      "email": "dani@gmail.com",
+      "password": "$2a$12$jg/H3Jzt8.kRaHM7hBEhdOdLC2HhlsX04IOKKuen.2CDTmQaNljYy"
+   },
+   {
+      "id": 6,
+      "firstname": "Kim",
+      "lastname": "Pacheco",
+      "email": "kim@gmail.com",
+      "password": "$2a$12$J5sTB9ZKFAwh5Qe2qL/5Het.mwJG3WtJ5eShaIx2rXenyNN2Mff.q"
+   }
+]
